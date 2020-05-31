@@ -1,2 +1,2 @@
-# Angry-Birds-Game-2.5
-Today we rewrote the code for the pig, log.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
